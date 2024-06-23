@@ -1,6 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyzzz1Project/Ui-Library/main/SourceMoonLibraryV1"))()
 local Window = Library.CreateLib("TITLE", "DarkTheme")
-Moon:MinimizeButton(Icon = "putidhereman")
 local Tab = Window:NewTab("TabName")  
 local Section = Tab:NewSection("Section Name")
 
